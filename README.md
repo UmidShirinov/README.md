@@ -12,10 +12,9 @@ I’m a dedicated ASP.NET Core Developer with a passion for crafting scalable, h
 Here are some of the technologies and tools I work with regularly:
     
 ## Contact
-- LinkedIn: [Umid Shirinov](https://www.linkedin.com/in/umidshirinov/)
-- GitHub: [Umid Shirinov](https://github.com/UmidShirinov/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umidshirinov/)
+- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/UmidShirinov/)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmidShirinov)
 
-📈 GitHub Stats
+
+
